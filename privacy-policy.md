@@ -1,6 +1,6 @@
 **Privacy Policy for ClappyBruno**  
 **Effective Date:** 2025-07-20  
-This privacy policy describes how **ClappyBruno**(“we", "our", or "the app") collects, uses, and shares user information in connection with our mobile application published on the Google Play Store.  
+This privacy policy describes how **ClappyBruno**(“we", "our", or "the app") collects, uses, and shares user information in connection with our mobile application published on the Google Play Store and the Apple App Store.  
   
 ## **1. Information We Collect**  
 We collect limited data to provide and improve our game’s features. The types of data we collect include:  
